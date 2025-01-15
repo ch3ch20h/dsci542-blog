@@ -1,0 +1,50 @@
+---
+project:
+  type: website
+title: "Data Science Explained"
+author: "Yichun Liu"
+format:
+  html:
+    theme: cosmo
+---
+
+# Understanding Data Science: What Is Machine Learning?
+
+Imagine you’re at a grocery store. Every week, you buy similar items: vegetables, fruits, and some snacks. Now imagine the cashier at the store starts predicting what you’re going to buy based on your past purchases and prepares your shopping list for you. They analyze your shopping habits and use them to anticipate your needs. How do they do it? This is where **machine learning** comes in. Let’s explore this concept in a simple way.
+
+## What is Machine Learning?
+
+Machine learning is a way for computers to learn patterns from data, much like how we humans learn from experience. Unlike traditional programming, where we provide specific instructions for every task, machine learning allows computers to figure out the rules by themselves based on examples.
+
+## A Simple Example
+
+Let’s say you’ve been keeping track of your monthly expenses in Excel for years. You have columns like "Month," "Groceries," "Utilities," and "Total Expenses." One day, you wonder, “Can I predict my total expenses for next month?” Machine learning can help you with this:
+
+1. **Data Collection**: You have years of expense data in Excel—this is the starting point.
+2. **Pattern Recognition**: A machine learning model can look at the relationship between your "Groceries" and "Utilities" expenses and the "Total Expenses."
+3. **Prediction**: After learning the pattern, the model can estimate your total expenses for the upcoming months based on new grocery and utility amounts.
+
+## How Does It Work?
+
+Here’s a step-by-step analogy to help you understand how machine learning works:
+
+1. **Data is Like a Recipe Book**: Imagine teaching your computer to bake. You provide a collection of recipes (data), and the computer reads them to understand how ingredients (inputs) are turned into delicious dishes (outputs).
+2. **Training the Model**: The computer practices using the recipes until it can bake on its own. It doesn’t memorize but learns the general rules.
+3. **Making Predictions**: Once trained, the computer can make suggestions—like predicting how much sugar you’ll need if you want a cake twice as large.
+
+## Where Do We See Machine Learning?
+
+You might not realize it, but machine learning is everywhere:
+- **Netflix**: Recommending shows based on what you’ve watched.
+- **Google Translate**: Converting one language to another by learning patterns in languages.
+- **Online Shopping**: Suggesting items you might want to buy next.
+
+## Why Is It Useful?
+
+Machine learning can save time, spot patterns we might miss, and make decisions faster. For example, it could help businesses predict sales trends, doctors detect diseases earlier, or even help you monitor your expenses more efficiently. In your case, imagine using Excel to automatically flag months where you spent more than usual. This could help you manage your budget better without manual calculations.
+
+## A Simple Takeaway
+
+Machine learning is like teaching a computer how to learn from past data. Just as you’ve become good at Excel through years of practice, a machine learns to find patterns in data to make predictions. It’s not magic—it’s about learning from experience, just like you do!
+
+Machine learning is a powerful tool that helps us solve problems by learning from data. It’s not as mysterious as it sounds, and you’ve already been working with the foundation—your data in Excel. Would you like to try applying these ideas to your expense sheet?

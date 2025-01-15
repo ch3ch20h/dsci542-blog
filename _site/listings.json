@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/Users/yichunliu/dsci542-blog/index.html",
+    "items": [
+      "/Users/yichunliu/dsci542-blog/posts/post-with-code/index.html",
+      "/Users/yichunliu/dsci542-blog/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/Users/yichunliu/dsci542-blog/posts/post-with-code/index.html",
+      "/posts/welcome/index.html",
+      "/Users/yichunliu/dsci542-blog/posts/welcome/index.html"
+    ]
+  }
+]
