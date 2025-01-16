@@ -32,6 +32,13 @@ Here’s a step-by-step analogy to help you understand how machine learning work
 2. **Training the Model**: The computer practices using the recipes until it can bake on its own. It doesn’t memorize but learns the general rules.
 3. **Making Predictions**: Once trained, the computer can make suggestions—like predicting how much sugar you’ll need if you want a cake twice as large.
 
+
+![Hourly Distribution of Incidents](bus.png "Hourly Distribution of Incidents")
+
+This graph shows the hourly distribution of incidents, which can help a machine learning model identify patterns in data. For example, the number of incidents peaks during certain hours of the day, such as midday, and declines late at night. Recognizing such trends allows machine learning algorithms to make accurate predictions, such as identifying when incidents are most likely to occur based on time of day.
+
+
+
 ## Where Do We See Machine Learning?
 
 You might not realize it, but machine learning is everywhere:
